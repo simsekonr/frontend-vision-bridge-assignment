@@ -1,0 +1,1 @@
+# frontend-vision-bridge-assignment
